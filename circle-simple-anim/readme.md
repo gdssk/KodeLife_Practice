@@ -1,4 +1,4 @@
-# circle-simple-anim
+# circle-simple-anims
 
 ![img](./circle-simple-anim.png)
 
